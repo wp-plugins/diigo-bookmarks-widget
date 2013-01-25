@@ -31,5 +31,5 @@ Display bookmarks from Diigo in your sidebar. Uses [Diigo API](http://www.diigo.
 
 == Screenshots ==
 
-1. Diigeo Widget Settings
+1. Diigo Widget Settings
 2. Widget Preview
