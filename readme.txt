@@ -1,5 +1,5 @@
 === Diigo Bookmarks Widget ===
-Contributors: Forhadur RezaA
+Contributors: mhk63
 Donate link: 
 Tags: diigo, bookmark,
 Requires at least: 3.0
