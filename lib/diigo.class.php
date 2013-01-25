@@ -101,7 +101,7 @@ class diigo {
         curl_setopt($process, CURLOPT_REFERER, $refer);
         curl_setopt($process, CURLOPT_TIMEOUT, 30);
         curl_setopt($process, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($process, CURLOPT_FOLLOWLOCATION, 1);
+        //curl_setopt($process, CURLOPT_FOLLOWLOCATION, 1);
 
         if ($https) {
             curl_setopt($process, CURLOPT_SSL_VERIFYPEER, false);
