@@ -6,7 +6,7 @@
 Description: Display bookmarks from <a href="http://diigo.com">Diigo</a> in your sidebar. Uses <a href="http://www.diigo.com/api_dev/docs">Diigo API</a> to fetch the bookmarks. First get an API key from <a href="http://www.diigo.com/api_keys/new/">here</a> and use this key along with your username and password in the widget settings. Then click the "Test API" button to test the api response. You can mention the 'User' input to fetch bookmarks from a particular user or leave it empty to fetch any public bookmark.
   Author: Forhadur Reza
   Author URI: mailto:rezatxe@gmail.com
-  Version: 1.0
+  Version: 1.1
  */
 if (!defined('ABSPATH'))
     die('You do not have sufficient permissions to access this file.');
