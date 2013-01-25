@@ -1,7 +1,7 @@
 === Diigo Bookmarks Widget ===
 Contributors: mhk63
 Donate link: 
-Tags: diigo, bookmark,
+Tags: diigo, bookmark,widget,annotate,plugin,diigo api,sidebar
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 1.1
@@ -31,5 +31,5 @@ Display bookmarks from Diigo in your sidebar. Uses [Diigo API](http://www.diigo.
 
 == Screenshots ==
 
-1. Diigeo Widget Settings
+1. Diigo Widget Settings
 2. Widget Preview
